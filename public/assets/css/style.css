@@ -1,0 +1,13 @@
+.thumbnail {
+    position :relative;
+    height: 250px;
+}
+
+.btnn {
+    position: absolute;
+    bottom:10px;
+    right: 10px;
+}
+img {
+    max-height:150px;
+}
